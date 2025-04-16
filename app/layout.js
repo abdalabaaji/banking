@@ -15,6 +15,7 @@ export default function RootLayout({ children }) {
           href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" />
       </head>
       <body>
+        <h1>This is an update</h1>
         <NavBar />
         {children}
       </body>
